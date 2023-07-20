@@ -6,6 +6,6 @@
 - 😄 ela\dela
 
 <div>
-  <a href="https://www.linkedin.com/in/lahrasouza123/">
+  <a href="https://www.linkedin.com/in/lahrasouza123">
     <h1> Meu Linkedin </h1>
 </div>
